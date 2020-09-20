@@ -1,4 +1,4 @@
-#### vue-electron qith neDb integration
+## vue-electron with NeDB integration
 
 #### Setup
 Inside project root folder
